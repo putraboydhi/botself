@@ -1,0 +1,2 @@
+# botself
+pip install rsa 
